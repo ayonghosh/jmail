@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KeyGenMain()
+comment1.params=laf
+comment1.target=void\ setLookAndFeel(java.lang.String)
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

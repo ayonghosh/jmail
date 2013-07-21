@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=inputStream
+comment0.target=Base64InputStream(java.io.InputStream)
+comment0.text=\r\n\ <p>\r\n\ It\ builds\ a\ base64\ decoding\ input\ stream.\r\n\ </p>\r\n\ \r\n\ @param\ inputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ The\ underlying\ stream,\ from\ which\ the\ encoded\ data\ is\ read.\r\n
+comment1.params=
+comment1.target=int\ read()
+comment2.params=
+comment2.target=void\ acquire()
+comment2.text=\r\n\ Reads\ from\ the\ underlying\ stream,\ decodes\ the\ data\ and\ puts\ the\ decoded\r\n\ bytes\ into\ the\ buffer.\r\n
+comment3.params=
+comment3.target=void\ close()
+numComments=4

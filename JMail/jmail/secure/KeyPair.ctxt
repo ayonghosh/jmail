@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=publicKey\ privateKey
+comment0.target=KeyPair(Key,\ Key)
+comment1.params=
+comment1.target=Key\ getPublicKey()
+comment2.params=
+comment2.target=Key\ getPrivateKey()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=hashAlgo\ v
+comment0.target=DigiSign(java.lang.String,\ java.util.Vector)
+comment1.params=f
+comment1.target=void\ exportXML(java.io.File)
+comment2.params=f
+comment2.target=void\ importXML(java.io.File)
+numComments=3

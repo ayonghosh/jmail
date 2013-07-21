@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=N\ eN
+comment0.target=KeyGen(int,\ int)
+comment1.params=
+comment1.target=Key\ getPublicKey()
+comment2.params=
+comment2.target=Key\ getPrivateKey()
+comment3.params=p\ q\ bitsize
+comment3.target=java.math.BigInteger\ generate_e(java.math.BigInteger,\ java.math.BigInteger,\ int)
+comment4.params=p\ q\ e
+comment4.target=java.math.BigInteger\ calculate_d(java.math.BigInteger,\ java.math.BigInteger,\ java.math.BigInteger)
+comment5.params=p\ q
+comment5.target=java.math.BigInteger\ calculate_n(java.math.BigInteger,\ java.math.BigInteger)
+numComments=6

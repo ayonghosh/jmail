@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SMTP()
+comment1.params=username\ password
+comment1.target=void\ setUserPass(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getUsername()
+comment3.params=
+comment3.target=void\ connect()
+comment4.params=
+comment4.target=javax.mail.PasswordAuthentication\ getPasswordAuthentication()
+comment5.params=
+comment5.target=javax.mail.internet.MimeMessage\ createMimeMessage()
+comment6.params=msg
+comment6.target=void\ sendMessage(javax.mail.Message)
+numComments=7

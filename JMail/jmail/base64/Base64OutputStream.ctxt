@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=outputStream
+comment0.target=Base64OutputStream(java.io.OutputStream)
+comment0.text=\r\n\ <p>\r\n\ It\ builds\ a\ base64\ encoding\ output\ stream\ writing\ the\ encoded\ data\ in\ the\r\n\ given\ underlying\ stream.\r\n\ </p>\r\n\ \r\n\ <p>\r\n\ The\ encoded\ data\ is\ wrapped\ to\ a\ new\ line\ (with\ a\ CRLF\ sequence)\ every\ 76\r\n\ bytes\ sent\ to\ the\ underlying\ stream.\r\n\ </p>\r\n\ \r\n\ @param\ outputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ The\ underlying\ stream.\r\n
+comment1.params=outputStream\ wrapAt
+comment1.target=Base64OutputStream(java.io.OutputStream,\ int)
+comment1.text=\r\n\ <p>\r\n\ It\ builds\ a\ base64\ encoding\ output\ stream\ writing\ the\ encoded\ data\ in\ the\r\n\ given\ underlying\ stream.\r\n\ </p>\r\n\ \r\n\ <p>\r\n\ The\ encoded\ data\ is\ wrapped\ to\ a\ new\ line\ (with\ a\ CRLF\ sequence)\ every\r\n\ <em>wrapAt</em>\ bytes\ sent\ to\ the\ underlying\ stream.\ If\ the\r\n\ <em>wrapAt</em>\ supplied\ value\ is\ less\ than\ 1\ the\ encoded\ data\ will\ not\r\n\ be\ wrapped.\r\n\ </p>\r\n\ \r\n\ @param\ outputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ The\ underlying\ stream.\r\n\ @param\ wrapAt\r\n\ \ \ \ \ \ \ \ \ \ \ \ The\ max\ line\ length\ for\ encoded\ data.\ If\ less\ than\ 1\ no\ wrap\r\n\ \ \ \ \ \ \ \ \ \ \ \ is\ applied.\r\n
+comment2.params=b
+comment2.target=void\ write(int)
+comment3.params=
+comment3.target=void\ close()
+comment4.params=
+comment4.target=void\ commit()
+comment4.text=\r\n\ <p>\r\n\ It\ commits\ 4\ bytes\ to\ the\ underlying\ stream.\r\n\ </p>\r\n
+numComments=5

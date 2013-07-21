@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MessagePreview()
+comment1.params=from\ sub\ dated\ preview
+comment1.target=MessagePreview(String,\ String,\ String,\ String)
+comment10.target=String\ getDate()
+comment11.target=String\ getPreview()
+comment12.target=boolean\ isRead()
+comment13.target=boolean\ isStarred()
+comment2.params=from
+comment2.target=void\ setFrom(String)
+comment3.params=sub
+comment3.target=void\ setSubject(String)
+comment4.params=date
+comment4.target=void\ setDate(String)
+comment5.params=preview
+comment5.target=void\ setPreview(String)
+comment6.params=read
+comment6.target=void\ setRead(boolean)
+comment7.params=starred
+comment7.target=void\ setStarred(boolean)
+comment8.target=String\ getFrom()
+comment9.target=String\ getSubject()
+numComments=14

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=length\ bytes
+comment0.target=byte[]\ zeroPad(int,\ byte[])
+comment1.params=string
+comment1.target=java.lang.String\ encode(java.lang.String)
+comment2.params=string
+comment2.target=java.lang.String\ splitLines(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

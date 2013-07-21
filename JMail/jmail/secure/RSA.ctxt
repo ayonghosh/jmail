@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=m\ key
+comment0.target=java.lang.String\ encrypt(java.lang.String,\ Key)
+comment1.params=c\ key
+comment1.target=java.lang.String\ decrypt(java.lang.String,\ Key)
+comment2.params=m\ key
+comment2.target=java.math.BigInteger\ encrypt(java.math.BigInteger,\ Key)
+comment3.params=c\ key
+comment3.target=java.math.BigInteger\ decrypt(java.math.BigInteger,\ Key)
+numComments=4

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Demo()
+comment1.params=
+comment1.target=void\ addList()
+comment10.params=
+comment10.target=void\ dispose()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=addresses
+comment2.target=void\ entriesAdded(java.util.Collection)
+comment3.params=addresses
+comment3.target=void\ entriesDeleted(java.util.Collection)
+comment4.params=addresses
+comment4.target=void\ entriesUpdated(java.util.Collection)
+comment5.params=presence
+comment5.target=void\ presenceChanged(org.jivesoftware.smack.packet.Presence)
+comment6.params=ae
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=chat\ message
+comment7.target=void\ processMessage(org.jivesoftware.smack.Chat,\ org.jivesoftware.smack.packet.Message)
+comment8.params=
+comment8.target=void\ refresh()
+comment9.params=
+comment9.target=void\ sortList()
+numComments=12

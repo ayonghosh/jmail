@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ n
+comment0.target=int\ rightrotate(int,\ int)
+comment1.params=n
+comment1.target=java.lang.String\ LSBHex(int)
+comment2.params=msg
+comment2.target=java.lang.String\ hash(byte[])
+comment3.params=msgStream
+comment3.target=java.lang.String\ hash(java.io.InputStream)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

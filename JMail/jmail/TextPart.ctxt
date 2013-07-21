@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=contentType\ body
+comment0.target=TextPart(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getContentType()
+comment2.params=
+comment2.target=java.lang.String\ getBody()
+numComments=3

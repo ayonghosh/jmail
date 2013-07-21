@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Main()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=laf
+comment2.target=void\ setLookAndFeel(java.lang.String)
+comment3.params=e
+comment3.target=void\ showErrorDialog(java.lang.Exception)
+comment4.params=msg\ title
+comment4.target=void\ showErrorDialog(java.lang.String,\ java.lang.String)
+comment5.params=msg
+comment5.target=void\ showErrorDialog(java.lang.String)
+numComments=6

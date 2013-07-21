@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=b\ notFlag\ length
+comment0.target=BigInt(java.math.BigInteger,\ boolean,\ int)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.math.BigInteger\ getBigInteger()
+comment3.params=
+comment3.target=int\ getLength()
+comment4.params=
+comment4.target=boolean\ getNotFlag()
+numComments=5

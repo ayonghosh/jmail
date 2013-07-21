@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=in\ f
+comment0.target=void\ encrypt(java.io.InputStream,\ java.io.File)
+comment1.params=is\ f
+comment1.target=void\ decrypt(java.io.File,\ java.io.File)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=f\ g
+comment2.target=void\ fileComp(java.io.File,\ java.io.File)
+comment3.params=arr\ length
+comment3.target=byte[]\ leadZero(byte[],\ int)
+comment4.params=a\ b
+comment4.target=boolean\ equals(byte[],\ byte[])
+comment5.params=b\ k
+comment5.target=java.math.BigInteger\ RSAencrypt(java.math.BigInteger,\ Key)
+comment6.params=b\ k
+comment6.target=java.math.BigInteger\ RSAdecrypt(java.math.BigInteger,\ Key)
+comment7.params=b
+comment7.target=void\ notArray(byte[])
+comment8.params=b
+comment8.target=void\ printArray(byte[])
+comment9.params=pout\ b
+comment9.target=void\ printArray(java.io.PrintWriter,\ byte[])
+numComments=11
